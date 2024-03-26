@@ -1,14 +1,14 @@
 //
-//  LegacyApp.swift
-//  Legacy
+//  PrototypesApp.swift
+//  Prototypes
 //
-//  Created by Joshua Austin on 3/21/24.
+//  Created by Joshua Austin on 3/25/24.
 //
 
 import SwiftUI
 
 @main
-struct LegacyApp: App {
+struct PrototypesApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
